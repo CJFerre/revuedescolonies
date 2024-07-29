@@ -212,7 +212,7 @@ sont enlevés à leurs mères dès qu'ils sont sevrés, et confiés à une vieil
    <reg>faisaient</reg>
 </choice> vibrer des fibres africaines : placards affichés, lettres jetées à la porte des cabarets, appelaient les esclaves à imiter leurs frères de <placeName ref="#StD">Saint-Domingue</placeName>. Les noirs oublièrent qu'ils étaient sans armes devant une garnison forte et disciplinée, devant une garde nationale nombreuse qui allait combattre pour ses <emph>Lares</emph> et pour ses <emph>foyers</emph>. Ils se révoltèrent.</p><pb n="10"/>
 
-<p>Le <!--<rs type="event" ref="#ID" : Révolte de saint pierre (voir Elisabeth, Léo. “En quoi l’esclavage est-il menacé ?, PUF Rennes, 2009”. L’esclave et les plantations)>--><date>9 février 1831</date>, à sept heures du soir, l'incendie éclata sur plusieurs points à la fois. En ville, on se rendit maître du feu. À la campagne, les flammes, poussées par un vent violent du nord-est, dévoraient les
+<p>Le <!--<rs type="event" ref="#ID" : Révolte de saint pierre (voir Elisabeth, Léo. “En quoi l’esclavage est-il menacé ?, PUF Rennes, 2009”. L’esclave et les plantations)>--><date when="1831-02-09">9 février 1831</date>, à sept heures du soir, l'incendie éclata sur plusieurs points à la fois. En ville, on se rendit maître du feu. À la campagne, les flammes, poussées par un vent violent du nord-est, dévoraient les
 <choice>
    <orig>établissemens</orig>
    <reg>établissements</reg>
@@ -269,11 +269,21 @@ pour ne pas les laisser après eux. Le nègre Hyacinthe, tenant son fils en bas 
 </choice> 
 voisins de la dame Dariste n'a-t-il pas disparu?</p>
 
-<p>Quel glaive, bon Dieu, que celui de la loi dans certaines mains ! Les nègres de l'habitation Dariste marchèrent à l'échafaud avec une effrayante résignation et dans un morne silence. Ils eussent appelé leur maître, si bon pour eux, et qui par humanité leur laissait cette liberté, <emph>sujet d'alarmes pour leurs voisins</emph> ; mais leur maître, leur protecteur était trop loin. Ils en référèrent à la justice divine. Celle-là est plus boiteuse encore que celle du ministère de la marine, invoquée par M. Dariste fils, mais du moins elle arrive un jour.</p>
+<p>Quel glaive, bon Dieu, que celui de la loi dans certaines mains ! Les nègres de l'habitation Dariste marchèrent à l'échafaud avec une effrayante résignation et dans un morne silence. Ils eussent appelé leur maître, si bon pour eux, et qui par humanité leur laissait cette liberté, <emph>SUJET D'ALARMES pour leurs voisins</emph> ; mais leur maître, leur protecteur était trop loin. Ils en référèrent à la justice divine. Celle-là est plus boiteuse encore que celle du ministère de la marine, invoquée par M. Dariste fils, mais du moins elle arrive un jour.</p>
 
 <p>Le géreur <emph>blanc</emph> a été acquitté. Il n'a échappé à une condamnation que parce qu'il eût porté ce procès devant la cour de cassation et que la France l'aurait connu. Ce SUJET D'ALARMES était aussi important à détruire que les autres.</p>
 
 <p>Ne pas accorder un recours en cassation à des hommes condamnés à mort, parce qu'ils sont <emph>esclaves</emph>, et lorsque leurs juges sont maîtres!... Exécuter à la hâte, à dix-huit cents lieues de la métropole, vingt-deux condamnés à mort, sans donner au roi la faculté d'exercer son droit de grace!...... Et le roi des Français, <persName ref="#LP">Louis Philippe</persName>, l'avocat de l'abolition de la peine de mort, à qui on a enlevé sa plus belle prérogative, parce que les condamnés sont de malheureux esclaves !..... Voilà bientôt trois siècles que d'épouvantables choses se passent impunément dans nos colonies. Quand M. le ministre de la marine jugera-t-il à propos de dire "ASSEZ" ?<pb n="13"/></p>
+
+<div>
+
+<head>MESURES DE HAUTE POLICE CONTRE LES HOMMES DE COULEUR DEPORTATIONS ADMINISTRATIVES.</head>
+
+<p>Pendant la longue période de chaos législatif qui précéda les ordonnances organiques de <date>1828</date>, les gouverneurs des colonies s'arrogèrent le droit, nulle part écrit, de déporter sans jugement. <persName ref="#EH">M. Halgan</persName> exerce le même droit ; mais il prétend sans doute l'exercer légalement, par exemple, en vertu de l'article 75 de l'ordonnance du <date when="1827-02-09">9 février 1827</date>. Par un arrêté qui vise cet article, M. le gouverneur vient d'ordonner que <persName ref="#VAg">le sieur Valéry-Agathe</persName>, domicilié au <placeName ref="#Va">Vauclin</placeName>, est exclu de cette commune et qu'il se rendra immédiatement au <placeName>Fort-Royal</placeName> pour y demeurer pendant un an SOUS LA SURVEILLANCE DE LA HAUTE POLICE. </p>
+
+
+
+</div>
 
 </div>
 
